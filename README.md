@@ -1,9 +1,11 @@
 # api documentation for  [normalize-scss (v6.0.0)](https://github.com/JohnAlbin/normalize-scss)  [![npm package](https://img.shields.io/npm/v/npmdoc-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-normalize-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-normalize-scss)
 #### This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers. This port aims to use a light dusting of Sass to make Normalize even easier to integrate with your website.
 
-[![NPM](https://nodei.co/npm/normalize-scss.png?downloads=true)](https://www.npmjs.com/package/normalize-scss)
+[![NPM](https://nodei.co/npm/normalize-scss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/normalize-scss)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-normalize-scss/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-normalize-scss_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-normalize-scss/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-normalize-scss/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-normalize-scss/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-normalize-scss/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-normalize-scss/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-normalize-scss/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +20,6 @@
 {
     "author": {
         "name": "John Albin Wilkins",
-        "email": "virtually.johnalbin@gmail.com",
         "url": "http://john.albin.net/"
     },
     "bugs": {
@@ -60,13 +61,11 @@
     "main": "sass/_normalize.scss",
     "maintainers": [
         {
-            "name": "johnalbin",
-            "email": "virtually.johnalbin@gmail.com"
+            "name": "johnalbin"
         }
     ],
     "name": "normalize-scss",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/JohnAlbin/normalize-scss.git"
@@ -80,16 +79,6 @@
     "version": "6.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module normalize-scss](#apidoc.module.normalize-scss)
-
-
-
-# <a name="apidoc.module.normalize-scss"></a>[module normalize-scss](#apidoc.module.normalize-scss)
 
 
 
