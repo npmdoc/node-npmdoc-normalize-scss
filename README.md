@@ -1,4 +1,7 @@
-# api documentation for  [normalize-scss (v6.0.0)](https://github.com/JohnAlbin/normalize-scss)  [![npm package](https://img.shields.io/npm/v/npmdoc-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-normalize-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-normalize-scss)
+# npmdoc-normalize-scss
+
+#### basic api documentation for  [normalize-scss (v6.0.0)](https://github.com/JohnAlbin/normalize-scss)  [![npm package](https://img.shields.io/npm/v/npmdoc-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-normalize-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-normalize-scss)
+
 #### This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers. This port aims to use a light dusting of Sass to make Normalize even easier to integrate with your website.
 
 [![NPM](https://nodei.co/npm/normalize-scss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/normalize-scss)
@@ -76,7 +79,8 @@
         "test-only": "mocha"
     },
     "style": "sass/_normalize.scss",
-    "version": "6.0.0"
+    "version": "6.0.0",
+    "bin": {}
 }
 ```
 
